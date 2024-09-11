@@ -1,0 +1,74 @@
+{:run/id
+ {:db/valueType :db.type/string}
+
+ :run/category
+ {:db/valueType :db.type/string}
+
+ :run/file-path
+ {:db/valueType :db.type/string}
+
+ :run/case-name
+ {:db/valueType :db.type/string}
+
+ :run/award
+ {:db/valueType :db.type/long}
+
+ :run/status
+ {:db/valueType :db.type/keyword}
+
+ :run/failure-str
+ {:db/valueType :db.type/string}
+
+ :run/response-str
+ {:db/valueType :db.type/string}
+
+ :run/prob-claimant-min
+ {:db/valueType :db.type/string}
+
+ :run/prob-claimant-max
+ {:db/valueType :db.type/string}
+
+ :run/prob-respondent-min
+ {:db/valueType :db.type/string}
+
+ :run/prob-respondent-max
+ {:db/valueType :db.type/string}
+
+ :run/award-claimant-min
+ {:db/valueType :db.type/long}
+
+ :run/award-claimant-max
+ {:db/valueType :db.type/long}
+ 
+ :run/award-respondent-min
+ {:db/valueType :db.type/long}
+
+ :run/award-respondent-max
+ {:db/valueType :db.type/long}
+
+ :run/confidence-min
+ {:db/valueType :db.type/string}
+
+ :run/confidence-max
+ {:db/valueType :db.type/string}
+
+ :run/case-summary
+ {:db/valueType :db.type/string}
+
+ :run/calculation-rationale
+ {:db/valueType :db.type/string}
+
+ :run/input-tokens
+ {:db/valueType :db.type/long}
+
+ :run/output-tokens
+ {:db/valueType :db.type/long}
+
+ :run/model
+ {:db/valueType :db.type/string}
+
+ :run/prompt-version
+ {:db/valueType :db.type/string}
+
+ :run/temperature
+ {:db/valueType :db.type/float}}

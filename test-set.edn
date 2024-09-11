@@ -1,0 +1,42 @@
+[{:id "1" :path "patrick/securities-law/001_3_20-cv-00882-MGL_1_PRIMARY DOCUMENT.pdf" :category "securities-law" :case-name "SEC v. Scana Corporation" :award 112500000}
+ {:id "2" :path "patrick/securities-law/002_1_22-cv-00002-LPS_1_PRIMARY DOCUMENT.pdf" :category "securities-law" :case-name "Taylor v. NeoPhotonics Corporation et al" :award 0}
+ {:id "3" :path "patrick/securities-law/003_1_20-cv-03491-JKB_1_PRIMARY DOCUMENT.pdf" :category "securities-law" :case-name "Wojcik v. Omega Healthcare Investors, Inc. et al" :award 918000000}
+ {:id "4" :path "patrick/securities-law/004_2_22-cv-07885-SB-RAO_227_PRIMARY DOCUMENT.pdf" :category "securities-law" :case-name "Michael Hollifield et al v. Resolute Capital Partners Ltd., LLC et al" :award 2533760}
+ {:id "5" :path "patrick/securities-law/005_11004581.pdf" :category "securities-law" :case-name "San Francisco Residence Club, Inc et al v. Amado et al" :award 252723}
+ {:id "6" :path "patrick/securities-law/006_181032611.pdf" :category "securities-law" :case-name "Pinterest Derivative Litigation" :award 2547047}
+ {:id "7" :path "patrick/securities-law/007_11013663.pdf" :category "securities-law" :case-name "Dodona I, LLC v. Goldman, Sachs & Co. et al" :award 27500000}
+ {:id "8" :path "patrick/securities-law/008__23-cv-02602-EMC_1_PRIMARY DOCUMENT.pdf" :category "securities-law" :case-name "Farallon Healthcare Partners Master, L.P. et al v. Fibrogen, Inc. et al" :award 28500000}
+ {:id "9" :path "patrick/securities-law/009_265894808.pdf" :category "securities-law" :case-name "Donoghue et al v. Antara Capital Master Fund LP et al" :award 3300000}
+ {:id "10" :path "patrick/securities-law/010_254038124.pdf" :category "securities-law" :case-name "Lanham v. Fenwick-Smith et al" :award 1900000}
+ {:id "11" :path "alex/securities-law/Class-Action-Complaint against McKesson Corp.pdf" :category "securities-law" :case-name "McKesson Corp" :award 141000000}
+ {:id "12" :path "alex/securities-law/Complaint against Allianz Global.pdf" :category "securities-law" :case-name "Allianz Global" :award 145000000}
+ {:id "13" :path "alex/securities-law/Flynn v. Exelon Corp" :category "securities-law" :case-name "Exelon Corp" :award 173000000}
+ {:id "14" :path "alex/securities-law/In re Grupo Televisa Sec. Litig.pdf" :category "securities-law" :case-name "Grupo Televisia" :award 95000000}
+ {:id "15" :path "alex/securities-law/Jabbari v. Wells Fargo" :category "securities-law" :case-name "Jabbari v Wells Fargo" :award 1300000000}
+ {:id "16" :path "alex/securities-law/Jones v Cardinal Health Complaint.pdf" :category "securities-law" :case-name "Cardinal Health Pharmacy" :award 109000000}
+ {:id "17" :path "alex/securities-law/Kraft Heinz Class Action Complaint.pdf" :category "securities-law" :case-name "Kraft Heinz" :award 450000000}
+ {:id "18" :path "alex/securities-law/Second Complaint Micro Focus Intl.pdf" :category "securities-law" :case-name "Micro Focus Intl plc" :award 107000000}
+ {:id "19" :path "alex/patent-law/ClearPlay v Dish Network Complaint.pdf" :category "patent-law" :case-name "Clearplay v Dish Networks" :award 470000000}
+ {:id "20" :path "alex/patent-law/Complete Genomics v Illumina Complaint.pdf" :category "patent-law" :case-name "Complete Genomics v Illumina" :award 333800000}
+ {:id "21" :path "alex/patent-law/Netlist v Samsung Complaint.pdf" :category "patent-law" :case-name "Netlist v Samsung" :award 303000000}
+ {:id "22" :path "alex/patent-law/Purdue v ST Micro Complaint.pdf" :category "patent-law" :case-name "Purdue v St. Micro" :award 32500000}
+ {:id "23" :path "alex/patent-law/Ravgen v Lab Corp Complaint.pdf" :category "patent-law" :case-name "Ravgen v Lab Corp" :award 272500000}
+ {:id "24" :path "alex/patent-law/Streamscale v Cloudera Complaint.pdf" :category "patent-law" :case-name "Streamscale v Cloudera" :award 240000000}
+ {:id "25" :path "alex/patent-law/Textron v SZ Complaint.pdf" :category "patent-law" :case-name "Textron v SZ" :award 279000000}
+ {:id "26" :path "alex/patent-law/Touchstream v Google Complaint.pdf" :category "patent-law" :case-name "Touchstream v Google" :award 339000000}
+ {:id "27" :path "alex/patent-law/USAA v PNC Bank Complaint.pdf" :category "patent-law" :case-name "US Auto Association v PNC Bank" :award 218000000}
+ {:id "28" :path "v1/securities-law/comp26064.pdf" :category "securities-law" :case-name "South Bay Acquisitions, LLC, et al." :award 1566250}
+ {:id "29" :path "v1/securities-law/comp26048.pdf" :category "securities-law" :case-name "George Iakovou, et. al" :award 5958505}
+ {:id "30" :path "v1/securities-law/comp25162.pdf" :category "securities-law" :case-name "Evarist C. Amah" :award 681284}
+ {:id "31" :path "v1/securities-law/comp26044.pdf" :category "securities-law" :case-name "Silvergate Capital Corporation, Alan J. Lane, Kathleen Fraher, and Antonio Martino" :award 50000000}
+ {:id "32" :path "v1/securities-law/comp25577.pdf" :category "securities-law" :case-name "Adrian J. Kawuba" :award 312693}
+ {:id "33" :path "v1/securities-law/comp-pr2021-148.pdf" :category "securities-law" :case-name "Mike K. Veldhuis" :award 13289897}
+ {:id "34" :path "v1/securities-law/comp25904.pdf" :category "securities-law" :case-name "Andrew DeFrancesco, Marlio Mauricio Diaz Cardona, Carlos Felipe Rezk, Nicola Faukovic, and Catherine DeFrancesco" :award 8223229}
+ {:id "35" :path "v1/securities-law/comp25587.pdf" :category "securities-law" :case-name "Eric T. Landis, et al." :award 2505488}
+ {:id "36" :path "v1/securities-law/comp24824.pdf" :category "securities-law" :case-name "William Sadleir" :award 13834239}
+ {:id "37" :path "v1/securities-law/comp25121.pdf" :category "securities-law" :case-name "Asante K. Berko" :award 329163}
+ {:id "38" :path "v1/securities-law/comp-pr2016-261.pdf" :category "securities-law" :case-name "Joseph Taub, et al." :award 17100000}
+ {:id "39" :path "v1/securities-law/comp-pr2014-256.pdf" :category "securities-law" :case-name "Anthony Thompson, Jr., et al. (Thompson)" :award 762263}
+ {:id "40" :path "v1/securities-law/comp24216.pdf" :category "securities-law" :case-name "Rudden, et al." :award 6511721}
+ {:id "41" :path "v1/securities-law/comp24927.pdf" :category "securities-law" :case-name "Stebbins & Jones (Stebbins)" :award 2015891}
+ {:id "42" :path "v1/securities-law/comp24216.pdf" :category "securities-law" :case-name "Rudden, et al." :award 6511721}]

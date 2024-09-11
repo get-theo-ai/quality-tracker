@@ -1,0 +1,23 @@
+{:paths ["scripts"]
+
+ :deps {;; Core bits
+        org.clojure/clojure                             {:mvn/version "1.11.3"}
+        org.clojure/core.async                          {:mvn/version "1.6.681"}
+
+        ;; HTTP client bits
+        babashka/babashka.curl                          {:mvn/version "0.1.2"}
+
+        ;; DB
+        datalevin/datalevin                             {:mvn/version "0.9.10"}
+
+        ;; Utilities
+        metosin/jsonista                                {:mvn/version "0.3.5"}
+        org.clojure/data.csv                            {:mvn/version "1.1.0"}
+        camel-snake-kebab/camel-snake-kebab             {:mvn/version "0.4.2"}
+        borkdude/edamame                                {:mvn/version "1.4.24"}
+        luchiniatwork/ambiente                          {:mvn/version "0.1.5"}}
+
+ :aliases
+ {:dev {:jvm-opts ["--add-opens=java.base/java.nio=ALL-UNNAMED" ;; datalevin
+                   "--add-opens=java.base/sun.nio.ch=ALL-UNNAMED" ;; datalevin
+                   ]}}}
